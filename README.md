@@ -28,7 +28,8 @@ My research focuses on the intersection of **Computational biomechanics** and **
 
 ### Peer-Reviewed Journals
 1. **[Your Name]**, Co-author A, Co-author B. "**Title of the Journal Paper.**" *Journal Name*, Vol. XX, No. X, pp. XXX-XXX, 20XX. [[DOI Link]]
-2. ...
+2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Shigeo Wada. "**Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients.**" *Journal of Biomechanics* vol.156, No.111671, 2023. [[(https://doi.org/10.1016/j.jbiomech.2023.111671)]]
+3. ...
 
 ### International Conferences
 1. **[Your Name]**, Co-author A. "**Title of the Conference Paper.**" *Conference Name (e.g., VPH 2024)*, Location, 20XX. (Oral/Poster)
