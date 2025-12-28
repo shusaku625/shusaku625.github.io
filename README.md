@@ -1,4 +1,4 @@
-# [Shusaku Maeda]
+# Shusaku Maeda
 
 > **[Current Position: Reseacher at NTT corporation]**, Cardiovascular modeling, Numerical Simulation, Machine Learning.
 >
