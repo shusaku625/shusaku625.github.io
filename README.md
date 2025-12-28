@@ -49,18 +49,6 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 
 ---
 
-## 💻 Selected Projects
-### [Project Name 1: Cerebrospinal fluid flow]
-* **Description:** Developed a high-speed C++ solver for lumped parameter cardiovascular models.
-* **Key Tech:** C++, HDF5, CMake.
-* **Link:** [Link to GitHub Repository]
-
-### [Project Name 2: e.g., ML-Hemodynamics]
-* **Description:** Applied machine learning to predict aortic pressure waves from non-invasive measurements.
-* **Key Tech:** Python, PyTorch.
-
----
-
 ## 🏆 Honors & Awards
 * **[Award Name]**, [Organization Name], [Year].
 * **[Fellowship Name]**, [Granting Agency (e.g., JSPS)], [Year].
