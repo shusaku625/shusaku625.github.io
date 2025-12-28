@@ -53,11 +53,11 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 * **Best poster award**, Division of Bioengineering, The Japan Society of Mechanical Engineering, 2023.
 * **Best Presentation award**, Division of Bioengineering, The Japan Society of Mechanical Engineering, 2022.
 * **Best student award**, Department of Engineering Science, Osaka University, 2022.
-* **JSPS research fellowship**, [Japan society for the promotion of science], 2023-2025.
+* **JSPS research fellowship**, Japan society for the promotion of science, 2023-2025.
+* **Nakatani Foundation visiting overseas fellowship**, Nakatani foundation, 2024.  
 
 ---
 
 ## ✉️ Contact
-* **Office:** [Laboratory Name/Building], [University/Institute Name]
-* **Address:** [Street Address, City, Country]
-* **Email:** [your.email@example.com]
+* **Office:** Communication and Science Laboratory, NTT corporation
+* **Email:** shusaku.maeda@ntt.com
