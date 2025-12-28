@@ -14,7 +14,7 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 ## 🎓 Education
 * **Ph.D. in Department of Engineering Science** | Osaka UNiversity  
   *`3, 2025 – 4, 2022`*
-  * Thesis: *"[Title of your PhD Thesis]"*
+  * Thesis: *"The Ventricular Cerbrospinal Fluid Flow Dynamics of Idiopathic Normal Pressure Hydrocephalus Patients: An MRI Based Computational Study"*
   * Advisor: Prof. Shigeo Wada, Prof. Tomohiro Otani
 * **M.S. in Department of Engineering Science** | Osaka University  
   *`3, 2022 – 4, 2020`*
