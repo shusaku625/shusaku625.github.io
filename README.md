@@ -1,6 +1,6 @@
 # Shusaku Maeda
 
-> **[Current Position: Reseacher at NTT corporation]**, Cardiovascular modeling, Numerical Simulation, Machine Learning.
+> **Current Position: Reseacher at NTT corporation**, Cardiovascular modeling, Numerical Simulation, Machine Learning.
 >
 > [Email](mailto:shusaku.maeda@ntt.com) / [LinkedIn](https://www.linkedin.com/feed/) / [Google Scholar](https://scholar.google.co.jp/citations?user=WDHT4Z0AAAAJ&hl=ja)
 
