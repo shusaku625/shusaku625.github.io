@@ -34,7 +34,7 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Computational investigation of cerebrospinal fluid mixing in the cerebral aqueduct across a wide range of ages in healthy population**" *8th International Conference on Computational and Mathematical Biomedical Engineering*, United States, 2024. (oral)
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Numerical analysis of cerebrospinal fluid mixing in normal pressure hydrocephalus**" *6th Japan-Switzerland workshop on Biomechanics*, Japan, 2023. (poster)
 4. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Computational study of cerebrospinal fluid mixing in cerebral aqueduct in idiopathic normal pressure hydrocephalus patients**" *9th World Congress of Biomechanics*, Taiwan. 2022 (Oral)
-5. **Shusaku Maeda**, Tomohiro Otani, Selin Yavuz Ilik, Shigeki Yamada, Yoshiyuki Watanabe, "**Shigeo Wada, Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images**" *Summer Biomechanics, Bioengineering and Biotransport Conference*, United States. 2021 (Poster)
+5. **Shusaku Maeda**, Tomohiro Otani, Selin Yavuz Ilik, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images**" *Summer Biomechanics, Bioengineering and Biotransport Conference*, United States. 2021 (Poster)
 
 ---
 
