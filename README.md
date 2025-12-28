@@ -12,8 +12,8 @@ My research focuses on the intersection of **computational biomechanics** and **
 ---
 
 ## 🎓 Education
-* **Ph.D. in [Department Name]** | [University Name]  
-  *`[Month, Year] – [Month, Year]`*
+* **Ph.D. in Engineering** | Osaka UNiversity  
+  *`[3, 2025] – [4, 2022]`*
   * Thesis: *"[Title of your PhD Thesis]"*
   * Advisor: Prof. [Advisor Name]
 * **M.S. in [Department Name]** | [University Name]  
