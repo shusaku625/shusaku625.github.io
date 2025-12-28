@@ -40,19 +40,17 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 
 ## 🛠 Technical Skills
 ### Programming & Software
-* **Languages:** C++ (Object-Oriented Programming), Python (PyTorch, NumPy), MATLAB
-* **Data Management:** HDF5 (High-efficiency data storage), SQL
-* **Tools:** $\LaTeX$ (Academic Writing), Git/GitHub, Docker, Linux (HPC)
+* **Languages:** C++ (Object-Oriented Programming), Python (PyTorch, NumPy)
+* **Data Management:** HDF5 (High-efficiency data storage)
+* **Tools:** $\LaTeX$ (Academic Writing), Git/GitHub, Linux (HPC)
 
 ### Scientific Expertise
-* **Mathematical Modeling:** Lumped parameter modeling (0D) for systemic and pulmonary circulation.
-* **Numerical Analysis:** Solution of ODEs/PDEs using Finite Element Method (FEM) and Finite Volume Method (FVM).
-* **Machine Learning:** PINNs (Physics-Informed Neural Networks), Regression, and Classification for clinical data.
+* **Numerical Analysis:** Solution of ODEs/PDEs using Finite Element Method (FEM).
 
 ---
 
 ## 💻 Selected Projects
-### [Project Name 1: e.g., 0D-Heart-Solver]
+### [Project Name 1: Cerebrospinal fluid flow]
 * **Description:** Developed a high-speed C++ solver for lumped parameter cardiovascular models.
 * **Key Tech:** C++, HDF5, CMake.
 * **Link:** [Link to GitHub Repository]
