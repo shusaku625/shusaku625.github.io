@@ -50,7 +50,9 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 ---
 
 ## 🏆 Honors & Awards
-* **Best poster award**, Division of Bioengineering, The Japan Society of Mechanical Engineers, 2023.
+* **Best poster award**, Division of Bioengineering, The Japan Society of Mechanical Engineering, 2023.
+* **Best Presentation award**, Division of Bioengineering, The Japan Society of Mechanical Engineering, 2022.
+* **Best student award**, Department of Engineering Science, Osaka University, 2022.
 * **[Fellowship Name]**, [Granting Agency (e.g., JSPS)], [Year].
 
 ---
