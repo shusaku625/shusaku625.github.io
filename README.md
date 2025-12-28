@@ -7,7 +7,7 @@
 ---
 
 ## 🧬 Research Interests
-My research focuses on the intersection of **computational biomechanics** and **Scientific Machine Learning**.
+My research focuses on the intersection of **Computational biomechanics** and **Scientific Machine Learning**.
 
 ---
 
