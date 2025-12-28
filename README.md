@@ -7,7 +7,7 @@
 ---
 
 ## 🧬 Research Interests
-My research focuses on the intersection of **Computational biomechanics** and **Scientific Machine Learning**.
+My research focuses on the intersection of **Computational Biomechanics** and **Scientific Machine Learning**.
 
 ---
 
@@ -25,9 +25,9 @@ My research focuses on the intersection of **Computational biomechanics** and **
 
 ## 📝 Publications
 ### Peer-Reviewed Journals
-1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Subject-specific variability in cerebrospinal fluid flow characteristics through cerebral aqueducts in a healthy population: a magnetic resonance imaging and computational investigation.**", *Medical & Biological Engineering & Computing* vol.63 page:3275-3284, 2025. [https://link.springer.com/article/10.1007/s11517-025-03394-y] 
+1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Subject-specific variability in cerebrospinal fluid flow characteristics through cerebral aqueducts in a healthy population: a magnetic resonance imaging and computational investigation.**", *Medical & Biological Engineering & Computing* vol.63 page:3275-3284, 2025. [Link](https://link.springer.com/article/10.1007/s11517-025-03394-y)
 
-2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Shigeo Wada. "**Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients.**" *Journal of Biomechanics* vol.156, No.111671, 2023. [(https://doi.org/10.1016/j.jbiomech.2023.111671)]
+2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Shigeo Wada. "**Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients.**" *Journal of Biomechanics* vol.156, No.111671, 2023. [Link](https://doi.org/10.1016/j.jbiomech.2023.111671)
 
 ### International Conferences
 1. **[Your Name]**, Co-author A. "**Title of the Conference Paper.**" *Conference Name (e.g., VPH 2024)*, Location, 20XX. (Oral/Poster)
