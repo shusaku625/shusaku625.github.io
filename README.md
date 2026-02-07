@@ -58,6 +58,10 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 
 ---
 
+## 📄 Peer Review Experience
+* Journal of Biomechanical Science and Engineering
+* Scientific Reports
+
 ## ✉️ Contact
 * **Office:** Communication and Science Laboratory, NTT corporation
 * **Email:** shusaku.maeda@ntt.com
