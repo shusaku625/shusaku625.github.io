@@ -29,7 +29,7 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Shigeo Wada. "**Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients.**" *Journal of Biomechanics* vol.156, No.111671, 2023. [Link](https://doi.org/10.1016/j.jbiomech.2023.111671)
 
 ### International Conferences
-1. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**A SURROGATE FRAMEWORK FOR COUPLED CARDIAC DYNAMICS USING LATENT NEURAL ODES**" *EMBC2026*, Toronto, Canada 2026. (accepted)
+1. **Shusaku Maeda**, Masahiro Nakano, Kashino Kunio, "**A SURROGATE FRAMEWORK FOR COUPLED CARDIAC DYNAMICS USING LATENT NEURAL ODES**" *EMBC2026*, Toronto, Canada 2026. (accepted)
 2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Computational investigation on cerebrospinal fluid flow mixing states in aqueduct of patients with Hakim’s disease**" *The 16th Meeting of the Hydrocephalus society*, Japan, 2025. (oral)
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Computational investigation of cerebrospinal fluid mixing in the cerebral aqueduct across a wide range of ages in healthy population**" *8th International Conference on Computational and Mathematical Biomedical Engineering*, United States, 2024. (oral)
 4. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada, "**Numerical analysis of cerebrospinal fluid mixing in normal pressure hydrocephalus**" *6th Japan-Switzerland workshop on Biomechanics*, Japan, 2023. (poster)
