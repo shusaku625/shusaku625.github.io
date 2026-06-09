@@ -20,6 +20,8 @@ My research focuses on the intersection of **Computational Biomechanics** and **
   *`3, 2022 – 4, 2020`*
 * **B.S. in Department of Engineering Science** | Osaka University  
   *`3, 2020 – 4, 2018`*
+* **Associate B.S. in Department of Mechanical Engineering** | Kobe City College of Technology
+  *`4, 2013 – 3, 2018`*
 
 ---
 
