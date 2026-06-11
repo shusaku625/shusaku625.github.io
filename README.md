@@ -56,7 +56,7 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 * **Best Poster Award**, Division of Bioengineering, The Japan Society of Mechanical Engineering, 5/2024.
 * **Nakatani Foundation Visiting Overseas Fellowship**, Nakatani foundation, 2024. 
 * **Best Presentation Award**, Division of Bioengineering, The Japan Society of Mechanical Engineering, 12/2022.
-* **Best Student Award**, Department of Engineering Science, Osaka University, 2022.
+* **Best Student Award**, Department of Engineering Science, Osaka University, 3/2022.
 * **JSPS Research Fellowship**, Japan society for the promotion of science, 2023-2025. 
 
 ---
