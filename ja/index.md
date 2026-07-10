@@ -70,7 +70,7 @@
    *The 16th Meeting of the Hydrocephalus Society*, Japan, 2024.（口頭発表）
 
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada.
-   “**Computational investigation of cerebrospinal fluid mixing in the cerebral aqueduct across a wide range of ages in healthy population.**”
+   “**Computational investigation of cerebrospinal fluid mixing in the cerebral aqueduct across a wide range of ages in healthy     population.**”
    *8th International Conference on Computational and Mathematical Biomedical Engineering*, United States, 2024.（口頭発表）
 
 4. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada.
@@ -86,6 +86,19 @@
    *Summer Biomechanics, Bioengineering and Biotransport Conference*, United States, 2021.（ポスター発表）
 
 ---
+
+### 国内会議
+1. **前田修作**、中野允裕、錦見亮、佐久間大輝、柏野邦夫、"Latent Neural ODEによる心血管系動態の予測と生理学的パラメータの逆推定"、第65回日本生体医工学会大会、仙台、2026年6月.
+2. **前田 修作**，大谷 智仁，和田 成生，Kurtcuoglu Vartan、"Physics informed neural networkを⽤いた時空間濃度分布からの速度場の推定"、第36回バイオエンジニアリング講演会、名古屋、2024年5月.
+3. **前田 修作**，大谷智仁、山田茂樹、渡邊嘉之、和田成生、”脳室内における脳脊髄液流動特性の加齢性変化：数値流体力学計算”、第35回日本機械学会バイオエンジニアリング講演会、仙台、2023年6月.
+4. **前田 修作**，大谷 智仁、亀田 浩之、工藤 與亮、和田 成生、”多相拡散モデルによる頭蓋内O17輸送動態の数値解析”，第33回バイオフロンティア講演会，神戸、2022年12月.
+5. **前田 修作**、大谷 智仁、山田 茂樹、渡邉 嘉之、Selin Yavuz Ilik、 和田 成生、”特発性正常圧水頭症の中脳水道における脳脊髄液の流動特性”、第34回バイオエンジニアリング講演会、福岡、2022年6月.
+6. **前田修作**、大谷智仁、Selin Yavuz Ilik、山田茂樹、渡邉嘉之、武石直樹、和田成生、"MRI計測に基づく正常圧水頭症患者の脳脊髄液流れの数値シミュレーション"、第33回バイオエンジニアリング講演会、オンライン、2021年6月.
+7. **前田修作**、大谷智仁、Selin Yavuz Ilik、山田茂樹、渡邉嘉之、武石直樹、和田成生、”位相コントラストMRI計測に基づく正常圧水頭症における頭蓋内脳脊髄液動態の解析”、日本機械学会関西支部第96回定時総会講演会、メガボケーション学生研究発表セッション、オンライン、2021年3月.
+8. **前田修作*、Selin Yavuz Ilik、大谷智仁、武石直樹、和田成生、”ヒト脳室系における脳脊髄液流れの駆動メカニズム：数値流体力学シミュレーションによる検討”、第31回バイオフロンティア講演会、オンライン、2020年12月.
+9. **前田修作**、北出宏紀、武石直樹、和田成生、”全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析”、日本機械学会関西学生会2019年度学生卒業研究発表講演会、オンライン、2020年3月．
+
+
 
 ## 🛠 技術スキル
 
