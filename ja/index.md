@@ -47,17 +47,17 @@
 
 ### 査読付き学術論文
 
-1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino. in review.
+1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino, in review.
 
 2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada.
    “**Subject-specific variability in cerebrospinal fluid flow characteristics through cerebral aqueducts in a healthy population: a magnetic resonance imaging and computational investigation.**”
    *Medical & Biological Engineering & Computing*, Vol. 63, pp. 3275–3284, 2025.
-   [論文](https://link.springer.com/article/10.1007/s11517-025-03394-y)
+   [リンク](https://link.springer.com/article/10.1007/s11517-025-03394-y)
 
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Shigeo Wada.
    “**Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients.**”
    *Journal of Biomechanics*, Vol. 156, Article No. 111671, 2023.
-   [論文](https://doi.org/10.1016/j.jbiomech.2023.111671)
+   [リンク](https://doi.org/10.1016/j.jbiomech.2023.111671)
 
 ### 国際会議
 
@@ -87,7 +87,7 @@
 
 ---
 
-### 国内会議
+### 国内会議（主著のみ）
 1. **前田修作**、中野允裕、錦見亮、佐久間大輝、柏野邦夫、"Latent Neural ODEによる心血管系動態の予測と生理学的パラメータの逆推定"、第65回日本生体医工学会大会、仙台、2026年6月.
 2. **前田 修作**，大谷 智仁，和田 成生，Kurtcuoglu Vartan、"Physics informed neural networkを⽤いた時空間濃度分布からの速度場の推定"、第36回バイオエンジニアリング講演会、名古屋、2024年5月.
 3. **前田 修作**，大谷智仁、山田茂樹、渡邊嘉之、和田成生、”脳室内における脳脊髄液流動特性の加齢性変化：数値流体力学計算”、第35回日本機械学会バイオエンジニアリング講演会、仙台、2023年6月.
