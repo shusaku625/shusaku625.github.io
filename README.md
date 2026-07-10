@@ -1,8 +1,19 @@
+title: Shusaku Maeda
+permalink: /
+---
+
+<div align="right">
+  <strong>English</strong> | <a href="{{ site.baseurl }}/ja/">日本語</a>
+</div>
+
 # Shusaku Maeda
 
-> **Current Position: Reseacher at NTT corporation**, Biomechanics, Numerical Simulation, Machine Learning.
+> **Researcher at NTT Corporation**  
+> Biomechanics, Numerical Simulation, and Machine Learning
 >
-> [Email](mailto:shusaku.maeda@ntt.com) / [LinkedIn](https://www.linkedin.com/feed/) / [Google Scholar](https://scholar.google.co.jp/citations?user=WDHT4Z0AAAAJ&hl=ja)
+> [Email](mailto:shusaku.maeda@ntt.com) /
+> [LinkedIn](https://www.linkedin.com/feed/) /
+> [Google Scholar](https://scholar.google.co.jp/citations?user=WDHT4Z0AAAAJ&hl=en)
 
 ---
 
