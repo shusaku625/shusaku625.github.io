@@ -16,7 +16,7 @@
 
 ## 🧬 研究分野
 
-**計算バイオメカニクス**と**科学機械学習（Scientific Machine Learning）**を融合した研究に取り組んでいます。
+**生体を対象とした数値計算や科学的的機械学習（Scientific Machine Learning）の手法開発・応用に関する研究に取り組んでいます。
 
 ---
 
@@ -26,7 +26,7 @@
 
   * `2022年4月 – 2025年3月`
   * 博士論文：
-    *「特発性正常圧水頭症患者における脳室内脳脊髄液流動：MRIに基づく計算力学的研究」*
+    *「The Ventricular Cerbrospinal Fluid Flow Dynamics of Idiopathic Normal Pressure Hydrocephalus Patients: An MRI Based Computational Study」*
   * 指導教員：和田 成生 教授、大谷 智仁 教授
 
 * **修士（工学）｜大阪大学 基礎工学研究科**
@@ -47,7 +47,7 @@
 
 ### 査読付き学術論文
 
-1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino. 査読中.
+1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino. in review.
 
 2. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Shigeo Wada.
    “**Subject-specific variability in cerebrospinal fluid flow characteristics through cerebral aqueducts in a healthy population: a magnetic resonance imaging and computational investigation.**”
@@ -91,7 +91,7 @@
 
 ### プログラミング・ソフトウェア
 
-* **プログラミング言語：** C++（オブジェクト指向プログラミング）、Python
+* **プログラミング：** C++（オブジェクト指向プログラミング）、Python
 * **機械学習：** PyTorch、NumPy
 * **データ管理：** HDF5
 * **開発・研究環境：** Git、GitHub、Linux、HPC
@@ -100,9 +100,8 @@
 ### 数値解析・研究技術
 
 * 常微分方程式および偏微分方程式の数値解析
-* 有限要素法（FEM）
+* 有限要素法
 * 数値流体力学
-* 計算バイオメカニクス
 * Scientific Machine Learning
 * Physics-informed Machine Learning
 * サロゲートモデリング
@@ -111,7 +110,7 @@
 
 ## 🏆 受賞・採択歴
 
-* **奨励賞**｜日本生体医工学会、2026年6月
+* **コニカミノルタ科学技術振興財団・日本生体医工学会奨励賞**｜日本生体医工学会大会、2026年6月
 * **優秀ポスター表彰**｜日本機械学会 バイオエンジニアリング部門、2024年5月
 * **海外留学助成**｜中谷医工計測技術振興財団、2024年
 * **優秀講演表彰**｜日本機械学会 バイオエンジニアリング部門、2022年12月
