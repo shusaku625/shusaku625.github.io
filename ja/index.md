@@ -27,7 +27,7 @@
   * `2022年4月 – 2025年3月`
   * 博士論文：
     *「The Ventricular Cerbrospinal Fluid Flow Dynamics of Idiopathic Normal Pressure Hydrocephalus Patients: An MRI Based Computational Study」*
-  * 指導教員：和田 成生 教授、大谷 智仁 教授
+  * 指導教員：和田 成生 教授、大谷 智仁 准教授
 
 * **修士（工学）｜大阪大学 基礎工学研究科**
 
