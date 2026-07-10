@@ -1,0 +1,63 @@
+---
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap");
+
+@import "{{ site.theme }}";
+
+/* 本文 */
+body {
+  font-family:
+    "Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    "Meiryo",
+    sans-serif;
+  font-weight: 400;
+  line-height: 1.8;
+}
+
+/* 見出し */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family:
+    "Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    "Meiryo",
+    sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+/* Architectテーマ上部のタイトル */
+header h1,
+header h2 {
+  font-family:
+    "Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    "Meiryo",
+    sans-serif;
+}
+
+/* 本文を少し読みやすくする */
+#main-content p,
+#main-content li {
+  font-size: 16px;
+  line-height: 1.85;
+}
+
+/* コードは等幅フォントのままにする */
+code,
+pre {
+  font-family:
+    Consolas,
+    "Liberation Mono",
+    Menlo,
+    monospace;
+}
