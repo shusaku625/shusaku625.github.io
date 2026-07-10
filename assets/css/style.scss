@@ -61,3 +61,20 @@ pre {
     Menlo,
     monospace;
 }
+
+/* ページ全体の横幅 */
+.inner {
+  width: 92%;
+  max-width: 1100px;
+}
+
+/* 本文を横いっぱい使う */
+#main-content {
+  float: none;
+  width: 100%;
+}
+
+/* 不要なサイドバーを非表示 */
+aside#sidebar {
+  display: none;
+}
