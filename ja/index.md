@@ -85,8 +85,6 @@
    “**Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images.**”
    *Summer Biomechanics, Bioengineering and Biotransport Conference*, United States, 2021.（ポスター発表）
 
----
-
 ### 国内会議（主著のみ）
 1. **前田修作**、中野允裕、錦見亮、佐久間大輝、柏野邦夫、"Latent Neural ODEによる心血管系動態の予測と生理学的パラメータの逆推定"、第65回日本生体医工学会大会、仙台、2026年6月.
 2. **前田 修作**，大谷 智仁，和田 成生，Kurtcuoglu Vartan、"Physics informed neural networkを⽤いた時空間濃度分布からの速度場の推定"、第36回バイオエンジニアリング講演会、名古屋、2024年5月.
@@ -102,6 +100,7 @@
 ### 招待講演
 1. **前田 修作**、物理・機械学習の融合による生体現象・機能の理解と予測に向けた取り組み、大阪大学情報科学研究科、2026年7月.
 
+---
 
 ## 🛠 技術スキル
 
