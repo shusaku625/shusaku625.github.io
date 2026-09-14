@@ -43,7 +43,7 @@ My research focuses on the intersection of **Computational Biomechanics** and **
 3. **Shusaku Maeda**, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin Yavuz Ilik, Shigeo Wada. "**Biomechanical effects of hyper-dynamic cerebrospinal fluid flow through the cerebral aqueduct in idiopathic normal pressure hydrocephalus patients.**" *Journal of Biomechanics* vol.156, No.111671, 2023. [Link](https://doi.org/10.1016/j.jbiomech.2023.111671)
 
 ### Preprint
-1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino, "**Impact of Multiple Non-Invasive Biosignals on Cardiovascular Biomarker Estimation via Simulation-Based Inference**", *arXiv*, https://doi.org/10.48550/arXiv.2609.11969.
+1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino, "**Impact of Multiple Non-Invasive Biosignals on Cardiovascular Biomarker Estimation via Simulation-Based Inference**", *arXiv*, https://doi.org/10.48550/arXiv.2609.11969
 
 ### International Conferences
 1. **Shusaku Maeda**, Masahiro Nakano, Kashino Kunio, "**A surrogate framework for coupled cardiac dynamics using latent neural ODEs**" *IEEE EMBC*, Toronto, Canada, July, 2026. (Poster)
