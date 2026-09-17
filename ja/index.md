@@ -45,7 +45,7 @@
 
 ## 📝 研究業績
 
-### 査読付き学術論文
+### ✓ 査読付き学術論文
 
 1. **Shusaku Maeda**, Masahiro Nakano, Tomoharu Iwata, Kenji Komiya, Ryo Nishikimi, Kunio Kashino, in review.
 
@@ -59,7 +59,7 @@
    *Journal of Biomechanics*, Vol. 156, Article No. 111671, 2023.
    [リンク](https://doi.org/10.1016/j.jbiomech.2023.111671)
 
-### 国際会議
+### 🌎 国際会議
 
 1. **Shusaku Maeda**, Masahiro Nakano, Kunio Kashino.
    “**A surrogate framework for coupled cardiac dynamics using latent neural ODEs.**”
@@ -85,7 +85,7 @@
    “**Development on a computational framework to express patient-specific intracranial cerebrospinal fluid flow based on phase-contrast magnetic resonance images.**”
    *Summer Biomechanics, Bioengineering and Biotransport Conference*, United States, 2021.（ポスター発表）
 
-### 国内会議（主著のみ）
+### 🗾 国内会議（主著のみ）
 1. **前田修作**、中野允裕、錦見亮、佐久間大輝、柏野邦夫、"Latent Neural ODEによる心血管系動態の予測と生理学的パラメータの逆推定"、第65回日本生体医工学会大会、仙台、2026年6月.
 2. **前田 修作**，大谷 智仁，和田 成生，Kurtcuoglu Vartan、"Physics informed neural networkを⽤いた時空間濃度分布からの速度場の推定"、第36回バイオエンジニアリング講演会、名古屋、2024年5月.
 3. **前田 修作**，大谷智仁、山田茂樹、渡邊嘉之、和田成生、”脳室内における脳脊髄液流動特性の加齢性変化：数値流体力学計算”、第35回日本機械学会バイオエンジニアリング講演会、仙台、2023年6月.
@@ -106,7 +106,7 @@
 
 ## 🛠 技術スキル
 
-### プログラミング・ソフトウェア
+### 💻 プログラミング・ソフトウェア
 
 * **プログラミング：** C++、Python
 * **機械学習：** PyTorch、NumPy
@@ -129,10 +129,13 @@
 
 1. **コニカミノルタ科学技術振興財団・日本生体医工学会奨励賞**｜日本生体医工学会大会、2026年6月
 2. **優秀ポスター表彰**｜日本機械学会 バイオエンジニアリング部門、2024年5月
-3. **海外留学助成**｜中谷医工計測技術振興財団、2024年
-4. **優秀講演表彰**｜日本機械学会 バイオエンジニアリング部門、2022年12月
-5. **基礎工学研究科賞**｜大阪大学、2022年3月
-6. **日本学術振興会 特別研究員 DC2**｜2023年–2025年
+3. **優秀講演表彰**｜日本機械学会 バイオエンジニアリング部門、2022年12月
+4. **基礎工学研究科賞**｜大阪大学、2022年3月
+
+
+## 💰 研究費など
+1. **海外留学助成**｜中谷医工計測技術振興財団、2024年
+2. **日本学術振興会 特別研究員 DC2**｜2023年–2025年
 
 ---
 
